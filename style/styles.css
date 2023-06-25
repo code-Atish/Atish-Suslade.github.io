@@ -99,6 +99,7 @@ html,body{
 }
 
 .nav-item:hover,
+.dropdown .dropdown_inner ul li.current a,
 .current > .nav-item{
     color:cyan;
 }

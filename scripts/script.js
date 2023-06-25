@@ -71,7 +71,7 @@ function scrollToTop(){
 }
 
 function navigateNavBar(){
-	$('#nav').onePageNav({
+	$('.one-page-nav').onePageNav({
 		currentClass: 'current',
 		changeHash: false,
 		scrollSpeed: 10,
